@@ -4,7 +4,7 @@ This map displays all tree ring datasets located in North Carolina that are publ
 
 Note that the species code is typically the first 2 letters of the Genus and Species (i.e. QUAL = Quercus alba, PIPA = Pinus palustris Mill. etc.). Codes may differ from this convention for species within the same genus with the same starting letters for the species name (i.e. TSCA = Tsuga Canadensis, TSCR = Tsuga Caroliniana).
 
-Fire Scar data and gridded climate reconstructions were excluded from this map. 
+Fire scar data and gridded climate reconstructions were excluded from this map. 
 
 #### Data Attribution:
 Basemap provided by Leaflet and Esri.
